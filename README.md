@@ -1,2 +1,2 @@
 # Executive_Report_SQL
-Creating a Executive report using SQL
+Creating an Executive report using SQL
